@@ -1,0 +1,24 @@
+button{
+    background-color: #eee;
+    border: 1px solid white;
+    color: limegreen;
+    width: 100%;
+    text-align: left;
+    color: #444;
+    
+}
+.active, .accordion:hover{
+    background-color: coral;
+    color: white;
+}
+.panel{
+    overflow: hidden;
+    display: none;
+    
+}
+.fa{
+    float: right;
+    color: coral;
+    padding-top: 5px;
+    font-size: 12px;
+}
